@@ -1,4 +1,4 @@
-## What's up!
+## Hi! Thanks for visiting my profile
 
 My name is Geethan Sundaram. I am a second-year computer science student at the University of Virginia.
 
