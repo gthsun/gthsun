@@ -13,4 +13,4 @@ And on the side I enjoy
 - 🎛️ Music Production
 - 📹 Video Editing
 
-Connect with me on [Linkedin](https://www.linkedin.com/in/geethan-sundaram/)
+Connect with me on [Linkedin](https://www.linkedin.com/in/geethan-sundaram/)!
