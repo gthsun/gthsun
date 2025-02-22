@@ -1,4 +1,4 @@
-## Hey, thanks for visiting my profile!
+## வணக்கம், thanks for visiting my profile!
 
 My name is **Geethan Sundaram**. I am a second-year computer science student at the University of Virginia.
 
