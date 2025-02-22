@@ -1,9 +1,16 @@
-## About me
+## What's up!
 
 My name is Geethan Sundaram. I am a second-year computer science student at the University of Virginia.
 
-- 🔭 I’m currently working on completing my degree at UVA!
-- 🌱 I’m currently learning Django!
-- 💬 Ask me about music production and roller coasters (yeah it's a really weird combo)!
-- 😄 Pronouns: He/him
-- ⚡ Fun fact: I have a black and white doodle, named Mino!
+My interests lie in
+🗂️ Database Management
+🤖 Artificial Intelligence + Machine Learning
+🛜 Networking
+🖼️ Frontend Development (somehow)
+💵 Economics
+
+And on the side I enjoy
+🎛️ Music Production
+📹 Video Editing
+
+Connect with me on [Linkedin](https://www.linkedin.com/in/geethan-sundaram/)
